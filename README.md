@@ -1,7 +1,9 @@
 **HEALTHCARE FRAUD DETECTION PROJECT:**
+
 This repository contains the complete implementation of a Fraud Detection System for healthcare claims. The project applies data analytics and machine learning models to identify potentially fraudulent claims, assisting stakeholders in reducing financial losses and improving operational efficiency.
 
 **Project Overview:**
+
 Healthcare fraud costs insurers billions annually, leading to increased premiums for policyholders and inefficiencies in claims processing. This project provides a robust solution for fraud detection using historical claim data, enabling insurers to identify fraud early and minimize its impact.
 
 **Key Features:**
@@ -88,11 +90,14 @@ Explore explainable AI techniques to improve model transparency.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Acknowledgments:**
+
 Dataset: Provided and preprocessed specifically for this project.
+
 Tools: Developed using Python with libraries such as pandas, scikit-learn, and tensorflow.
 
 **Contact:**
 For questions or collaboration:
 
-Email: [Bikram.jeet80@gmail.com]
-GitHub: [Your GitHub Profile Link]
+Email: Bikram.jeet80@gmail.com
+
+GitHub: https://github.com/bikram80
